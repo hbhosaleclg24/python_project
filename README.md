@@ -1,2 +1,2 @@
 # python_project
-Contains python dashboard 
+python dashboard 
